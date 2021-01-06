@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\Ellen Beatriz Soares\source\repos\struct\struct\Origem.cpp(13,3): warning C4101: 'ponto2d': variável local não referenciada
+C:\Users\Ellen Beatriz Soares\source\repos\struct\struct\Origem.cpp(54,11): warning C4101: 'soma': variável local não referenciada
+  struct.vcxproj -> C:\Users\Ellen Beatriz Soares\source\repos\struct\x64\Debug\struct.exe
